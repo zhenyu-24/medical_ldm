@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64858490-fdd9-4a31-aa46-765358b6fd83" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="37TSjbKiTomzuaNxLSoLt4aJk8b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.inferer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spade_diffusion_model_unet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vqgan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wat_encoder.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/code/Python/LDM/latent-diffusion-model/config&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\code\Python\LDM\latent-diffusion-model\config" />
+      <recent name="D:\work\code\Python\LDM\latent-diffusion-model\vqgan" />
+      <recent name="D:\work\code\Python\LDM\latent-diffusion-model\ddpm" />
+      <recent name="D:\work\code\Python\LDM\latent-diffusion-model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\code\Python\LDM\latent-diffusion-model\my_model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="inferer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="latent-diffusion-model" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ddpm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\work\code\Python\LDM\latent-diffusion-model\my_model\inferer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spade_diffusion_model_unet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="latent-diffusion-model" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ddpm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\work\code\Python\LDM\latent-diffusion-model\my_model\spade_diffusion_model_unet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="latent-diffusion-model" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="latent-diffusion-model" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wat_encoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="latent-diffusion-model" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vqgan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vqgan/wat_encoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.spade_diffusion_model_unet" />
+        <item itemvalue="Python.wat_encoder" />
+        <item itemvalue="Python.inferer" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="64858490-fdd9-4a31-aa46-765358b6fd83" name="更改" comment="" />
+      <created>1766925703930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766925703930</updated>
+      <workItem from="1766925705003" duration="2639000" />
+      <workItem from="1767000969590" duration="7274000" />
+      <workItem from="1767093123650" duration="2559000" />
+      <workItem from="1767113966681" duration="900000" />
+      <workItem from="1767180850533" duration="10000" />
+      <workItem from="1767181315217" duration="33000" />
+      <workItem from="1767259500213" duration="111000" />
+      <workItem from="1767268908980" duration="1861000" />
+      <workItem from="1767284958186" duration="1721000" />
+      <workItem from="1767288226671" duration="390000" />
+      <workItem from="1767318341489" duration="1531000" />
+      <workItem from="1767343425289" duration="25000" />
+      <workItem from="1767353826959" duration="32000" />
+      <workItem from="1767362658849" duration="1076000" />
+      <workItem from="1767443929874" duration="616000" />
+      <workItem from="1767530041208" duration="624000" />
+      <workItem from="1767705156336" duration="627000" />
+      <workItem from="1768162142666" duration="8000" />
+      <workItem from="1768308763063" duration="930000" />
+      <workItem from="1768311551896" duration="676000" />
+      <workItem from="1768339068007" duration="823000" />
+      <workItem from="1768340090873" duration="437000" />
+      <workItem from="1768340655503" duration="64000" />
+      <workItem from="1768369790047" duration="678000" />
+      <workItem from="1768396868742" duration="460000" />
+      <workItem from="1768413901554" duration="428000" />
+      <workItem from="1768475134866" duration="1208000" />
+      <workItem from="1768722356187" duration="2010000" />
+      <workItem from="1768838568231" duration="1219000" />
+      <workItem from="1769072572621" duration="1137000" />
+      <workItem from="1769097782577" duration="61000" />
+      <workItem from="1769314446622" duration="15000" />
+      <workItem from="1769334265779" duration="146000" />
+      <workItem from="1769407550258" duration="45000" />
+      <workItem from="1769409353606" duration="964000" />
+      <workItem from="1769422555933" duration="637000" />
+      <workItem from="1769425655606" duration="4349000" />
+      <workItem from="1769430735677" duration="13000" />
+      <workItem from="1769430909784" duration="222000" />
+      <workItem from="1769434066108" duration="52000" />
+      <workItem from="1769436245576" duration="164000" />
+      <workItem from="1769436610103" duration="2071000" />
+      <workItem from="1769447275767" duration="253000" />
+      <workItem from="1769491891421" duration="626000" />
+      <workItem from="1769522136453" duration="92000" />
+      <workItem from="1769601167192" duration="868000" />
+      <workItem from="1769604862231" duration="29000" />
+      <workItem from="1769605587992" duration="1622000" />
+      <workItem from="1769623092281" duration="1771000" />
+      <workItem from="1769660153933" duration="1045000" />
+      <workItem from="1769662469506" duration="2113000" />
+      <workItem from="1769681930819" duration="170000" />
+      <workItem from="1769682554807" duration="3191000" />
+      <workItem from="1769685972512" duration="2588000" />
+      <workItem from="1769825310668" duration="1148000" />
+      <workItem from="1769828490901" duration="669000" />
+      <workItem from="1769831127157" duration="459000" />
+      <workItem from="1769831804723" duration="28000" />
+      <workItem from="1769832696850" duration="785000" />
+      <workItem from="1769833513820" duration="2000" />
+      <workItem from="1769833868260" duration="1770000" />
+      <workItem from="1769846718707" duration="613000" />
+      <workItem from="1769860229341" duration="1410000" />
+      <workItem from="1769869398888" duration="300000" />
+      <workItem from="1769958146307" duration="1009000" />
+      <workItem from="1770034809682" duration="5318000" />
+      <workItem from="1770040202804" duration="556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vqgan/vqgan.py</url>
+          <line>508</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/latent_diffusion_model$vqgan.coverage" NAME="vqgan 覆盖结果" MODIFIED="1768340255892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vqgan" />
+    <SUITE FILE_PATH="coverage/latent_diffusion_model$spade_diffusion_model_unet.coverage" NAME="spade_diffusion_model_unet 覆盖结果" MODIFIED="1769522156054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddpm" />
+    <SUITE FILE_PATH="coverage/latent_diffusion_model$test.coverage" NAME="test 覆盖结果" MODIFIED="1769073109579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/latent_diffusion_model$wat_encoder.coverage" NAME="wat_encoder 覆盖结果" MODIFIED="1769447290623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vqgan" />
+    <SUITE FILE_PATH="coverage/latent_diffusion_model$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1769687734956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/latent_diffusion_model$inferer.coverage" NAME="inferer 覆盖结果" MODIFIED="1769426839058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddpm" />
+  </component>
+</project>
