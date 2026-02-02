@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64858490-fdd9-4a31-aa46-765358b6fd83" name="更改" comment="" />
+    <list default="true" id="64858490-fdd9-4a31-aa46-765358b6fd83" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_2d_ldm.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_2d_ldm.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,33 +32,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.inferer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.spade_diffusion_model_unet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vqgan.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wat_encoder.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/work/code/Python/LDM/latent-diffusion-model/config&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.inferer.executor": "Run",
+    "Python.spade_diffusion_model_unet.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.vqgan.executor": "Run",
+    "Python.wat_encoder.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/work/code/Python/LDM/latent-diffusion-model",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\code\Python\LDM\latent-diffusion-model" />
       <recent name="D:\work\code\Python\LDM\latent-diffusion-model\config" />
       <recent name="D:\work\code\Python\LDM\latent-diffusion-model\vqgan" />
       <recent name="D:\work\code\Python\LDM\latent-diffusion-model\ddpm" />
-      <recent name="D:\work\code\Python\LDM\latent-diffusion-model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work\code\Python\LDM\latent-diffusion-model\my_model" />
@@ -267,7 +271,8 @@
       <workItem from="1769869398888" duration="300000" />
       <workItem from="1769958146307" duration="1009000" />
       <workItem from="1770034809682" duration="5318000" />
-      <workItem from="1770040202804" duration="556000" />
+      <workItem from="1770040202804" duration="742000" />
+      <workItem from="1770044308505" duration="406000" />
     </task>
     <servers />
   </component>
